@@ -1,0 +1,5 @@
+1) Describe what a file handle is and why it is useful:
+A file handle (in terms of perl) is a number that opperating system assigns, (temporarily) into a file once it is opened. The OS uses the file handle internally once acessing the file. It useful because can open the same file under two different handles.
+2) Describe what a subroutine is and why it is useful: A subroutine is a mini program that you can call on later named block of code, you can call on it whenever you want to use it or it is need in perl. It is useful because you can call on it whenever you need it and it allows new commands or functions.
+3)Describe what a module is and why it is useful: A bunch of subrountines (functions) that are already to go and can be imported into your code by using module name, it is useful because you can call on it whenever you want.
+4)Describe what a regular expression is and why it is useful:A regular expression is a string of characters that defines the pattern or patterns you are viewing. It is useful because we can use pattern binding operators such as "=~" to make an operating programing function.

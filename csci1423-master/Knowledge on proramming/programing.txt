@@ -1,0 +1,5 @@
+An array is a type of data structure. It can store any type of fixed-size collection of the similar data type. It is used in programing to store data, also it a collection of variables of the same type.
+2) A strongly typed lanuage does not allow variables to be use in a way. A loosely typed language does allow many ways to bypass the system.
+3)A stack is an actutally stack that is complied of First in list out, and Last in first out. While a queue is a line, and it allows First in first out, and last in last out.
+4) SET- starting the $i=0, Check- checking the condtion $i<#, CHANGE- change it to the end $i++.
+
